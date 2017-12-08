@@ -1,0 +1,22 @@
+{
+  "name": "yixiaojichunqiuCalendar",
+  "version": "0.1.0",
+  "summary": "my yixiaojichunqiuCalendar",
+  "description": "Add long description of the pod here.",
+  "homepage": "https://github.com/yixiaojichunqiu/yixiaojichunqiuCalendar/",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yixiao": "fdk785126868@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/yixiaojichunqiu/yixiaojichunqiuCalendar.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Pod/Classes/*"
+}
