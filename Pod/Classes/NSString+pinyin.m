@@ -19,6 +19,7 @@
     mutableString = (NSMutableString*)[mutableString stringByFoldingWithOptions:NSDiacriticInsensitiveSearch locale:[NSLocale currentLocale]];
    mutableString = [[mutableString stringByReplacingOccurrencesOfString:@" " withString:@""] mutableCopy];
     NSString* str = @"123";
+    NSLog(str);
     NSLog(@"我是改版1");
     return mutableString.lowercaseString;
 }
