@@ -1,4 +1,4 @@
 platform :ios, '8.0'
 target ‘test’ do
-pod 'yixiaojichunqiuCalendar', :podspec => '/Users/yixiaojichunqiu/Desktop/work/2017.12.8/yixiaojichunqiuCalendar/yixiaojichunqiuCalendar.podspec'
+pod 'yixiaojichunqiuCalendar', :podspec => '/Users/yixiaojichunqiu/Desktop/study/2017/2017.12/2017.12.8私有库pod/备份/yixiaojichunqiuCalendar/yixiaojichunqiuCalendar.podspec'
 end

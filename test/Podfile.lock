@@ -1,16 +1,16 @@
 PODS:
-  - yixiaojichunqiuCalendar (0.1.0)
+  - yixiaojichunqiuCalendar (0.1.1)
 
 DEPENDENCIES:
-  - yixiaojichunqiuCalendar (from `/Users/yixiaojichunqiu/Desktop/work/2017.12.8/yixiaojichunqiuCalendar/yixiaojichunqiuCalendar.podspec`)
+  - "yixiaojichunqiuCalendar (from `/Users/yixiaojichunqiu/Desktop/study/2017/2017.12/2017.12.8私有库pod/备份/yixiaojichunqiuCalendar/yixiaojichunqiuCalendar.podspec`)"
 
 EXTERNAL SOURCES:
   yixiaojichunqiuCalendar:
-    :podspec: /Users/yixiaojichunqiu/Desktop/work/2017.12.8/yixiaojichunqiuCalendar/yixiaojichunqiuCalendar.podspec
+    :podspec: "/Users/yixiaojichunqiu/Desktop/study/2017/2017.12/2017.12.8私有库pod/备份/yixiaojichunqiuCalendar/yixiaojichunqiuCalendar.podspec"
 
 SPEC CHECKSUMS:
-  yixiaojichunqiuCalendar: 4fbdfdcc843a66135f0c8fec44af6924270dead4
+  yixiaojichunqiuCalendar: 680926086e5c8bbb368d3ce548ed4a2e19e7575a
 
-PODFILE CHECKSUM: c8112928fa8b1922b29068455278c78578900a06
+PODFILE CHECKSUM: 079fb1480c7ef1f7411cbc32c8ac4a2f9435ce9f
 
-COCOAPODS: 1.2.0
+COCOAPODS: 1.6.1
