@@ -18,6 +18,7 @@
     CFStringTransform((CFMutableStringRef)mutableString,NULL,kCFStringTransformToLatin,false);
     mutableString = (NSMutableString*)[mutableString stringByFoldingWithOptions:NSDiacriticInsensitiveSearch locale:[NSLocale currentLocale]];
    mutableString = [[mutableString stringByReplacingOccurrencesOfString:@" " withString:@""] mutableCopy];
+    NSLog(@"我是改版1");
     return mutableString.lowercaseString;
 }
 

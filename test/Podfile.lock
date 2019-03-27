@@ -1,5 +1,5 @@
 PODS:
-  - yixiaojichunqiuCalendar (0.1.1)
+  - yixiaojichunqiuCalendar (0.1.3)
 
 DEPENDENCIES:
   - "yixiaojichunqiuCalendar (from `/Users/yixiaojichunqiu/Desktop/study/2017/2017.12/2017.12.8私有库pod/备份/yixiaojichunqiuCalendar/yixiaojichunqiuCalendar.podspec`)"
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :podspec: "/Users/yixiaojichunqiu/Desktop/study/2017/2017.12/2017.12.8私有库pod/备份/yixiaojichunqiuCalendar/yixiaojichunqiuCalendar.podspec"
 
 SPEC CHECKSUMS:
-  yixiaojichunqiuCalendar: 680926086e5c8bbb368d3ce548ed4a2e19e7575a
+  yixiaojichunqiuCalendar: ed1b6a9c4dd4075d6ba62dfe759b74dabd1c584c
 
 PODFILE CHECKSUM: 079fb1480c7ef1f7411cbc32c8ac4a2f9435ce9f
 
