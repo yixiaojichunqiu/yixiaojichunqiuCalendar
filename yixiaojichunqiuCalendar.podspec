@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'yixiaojichunqiuCalendar'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'my yixiaojichunqiuCalendar'
   s.description      = <<-DESC
                             Add long description of the pod here.
